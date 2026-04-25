@@ -1,0 +1,17 @@
+[UNIT]
+Description=Disk Usage Checker/Monitor
+After=local-fs.target 
+
+[Service]
+Type=oneshot
+ExecStart=/var/local/bin/disk-monitor.sh 
+User=root
+StandardOutput=journal
+StandardError=journal 
+CPUQuota=10%
+Memory=50M
+Restart=no
+
+[Install]
+Wantedby=multi-user.target 
+
