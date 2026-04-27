@@ -1,0 +1,11 @@
+## SElinux refers to the Security enhanced linux
+
+instead of gibin full right accordin to user the rights destribute according to process and tagging not user. 
+
+three types of  SElinux 
+--permissive type 0 
+--enforce type 1 
+--Disabled 
+
+
+
