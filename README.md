@@ -1,6 +1,3 @@
-# LINUX PROJECTS SERIES
-
-## Each directory in this repository is completely diffrent projects from each other  <br>
-
-
-
+# SSH HARDENING AUTOMATION 
+<br>
+This Projects is Created using the bash scripting that automates the ssh hardeing <br>
