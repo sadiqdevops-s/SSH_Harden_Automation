@@ -203,7 +203,7 @@ This project was developed to strengthen practical Linux administration and Bash
 
 Linux • Networking • Windows Server • Cloud • Bash Automation
 
-GitHub :https://github.com/sadiq-devops-s
+GitHub :https://github.com/sadiqdevops-s
 
 LinkedIn :https://www.linkedin.com/in/mohd-sadiq-5212a035a/
 
